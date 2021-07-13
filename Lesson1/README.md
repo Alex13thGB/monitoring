@@ -9,7 +9,7 @@
 Развернут Zabbix, добавлен пользователь Alex, настроена ступенчатая рассылка оповещений
 
 Скриншот:
-![alt text](Actions.png "Actions")
+![alt text](dashboard.png "Actions")
 
 ## Дополнительное задание
 
