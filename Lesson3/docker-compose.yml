@@ -7,7 +7,7 @@ services:
       options:
         fluentd-async-connect: "true"
         fluentd-address: localhost:24224
-        tag: fluentd
+        tag: nginx
     networks:
       - elasticsearch
 
@@ -21,7 +21,7 @@ services:
       options:
         fluentd-async-connect: "true"
         fluentd-address: localhost:24224
-        tag: fluentd
+        tag: postgres
     restart: always
     environment:
       POSTGRES_PASSWORD: example

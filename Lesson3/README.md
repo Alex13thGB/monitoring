@@ -16,6 +16,7 @@
 
 2. Настроить мониторинг для инстанса, на котором запущен Prometheus.
 
+![indexpaterns.png](indexpaterns.png "indexpaterns")
 ![pie.png](pie.png "pie")
 
 3. Настроить ротацию логов в 1 день;
